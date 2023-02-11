@@ -24,6 +24,9 @@ h3{
 span{
     text-decoration: underline;
 }
+.titanic{width:25%;
+
+}
 .topcontainer {
     background-color: #E4F9F5;
     position: relative;
@@ -53,6 +56,7 @@ span{
 
 .topcloud{
     position:absolute;
+
     right:300px;
     top:50px;
 
