@@ -3,7 +3,6 @@
 
 I am Ashesha Kaushik, and I am from India. I have recently attained my Bachelor's degree in Computer Science And Engneering... I am a Web Developer with experience building open source intreactive web developmnet projects. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-
 ## ⚡ Technologies
 
 ### Language :
