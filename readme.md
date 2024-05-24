@@ -6,7 +6,7 @@ I am Ashesha Kaushik, and I am from India. I have recently attained my Bachelor'
 ## ⚡ Technologies
 
 ### Language :
-
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -14,9 +14,10 @@ I am Ashesha Kaushik, and I am from India. I have recently attained my Bachelor'
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ### Libraries, Framework and Tools:
-
+![tailwindcss](https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwindcss)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
+<a href="#"><img alt="StackBlitz" src="https://img.shields.io/badge/StackBlitz%20-%23013243.svg?logo=StackBlitz&logoColor=white"></a>
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
