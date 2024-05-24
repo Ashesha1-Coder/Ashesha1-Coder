@@ -1,7 +1,7 @@
 ## Hi, I am Ashesha! Great to see you here! 👋
 
 
-I am Ashesha Kaushik, and I am from India. I have recently attained my Bachelor's degree in Computer Science And Engneering... I am a Web Developer with experience building open source intreactive web developmnet projects. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:<a href="https://www.linkedin.com/in/ashesha-kaushik-41999ak"><img alt="linkedin" src="https://img.shields.io/badge/VsCode%20-%23013243.svg?logo=linkedin&logoColor=white"></a>
+I am Ashesha Kaushik, and I am from India. I have recently attained my Bachelor's degree in Computer Science And Engneering... I am a Web Developer with experience building open source intreactive web developmnet projects. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:<a href="https://www.linkedin.com/in/ashesha-kaushik-41999ak"><img alt="linkedin" src="https://img.shields.io/badge/linkedIn%20-%23013243.svg?logo=linkedin&logoColor=white"></a>
 
 ## ⚡ Technologies
 
