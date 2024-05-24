@@ -16,6 +16,7 @@ I am Ashesha Kaushik, and I am from India. I have recently attained my Bachelor'
 ### Libraries, Framework and Tools:
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwindcss)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
+<a href="#"><img alt="VsCode" src="https://img.shields.io/badge/VsCode%20-%23013243.svg?logo=VsCode&logoColor=white"></a>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 <a href="#"><img alt="StackBlitz" src="https://img.shields.io/badge/StackBlitz%20-%23013243.svg?logo=StackBlitz&logoColor=white"></a>
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
